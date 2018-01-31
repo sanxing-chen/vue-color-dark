@@ -18,5 +18,8 @@
                 "path": "./themes/vue dark-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "url": "https://github.com/STayinloves/vue-color-dark"
     }
 }
