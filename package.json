@@ -1,0 +1,22 @@
+{
+    "name": "vue-color-dark",
+    "displayName": "vue-color-dark",
+    "description": "vue-color dark theme for VSCode",
+    "version": "0.0.1",
+    "publisher": "staychan",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vue Theme Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vue dark-color-theme.json"
+            }
+        ]
+    }
+}
